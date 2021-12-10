@@ -13,7 +13,7 @@ class QuizOneViewController: UIViewController {
     @IBOutlet weak var optionA: UIButton!
     @IBOutlet weak var optionB: UIButton!
     @IBOutlet weak var optionC: UIButton!
-    @IBOutlet weak var option: UIButton!
+    @IBOutlet weak var optionD: UIButton!
     
     let quizOneQuestions = QuizOneQuestionBank()
     var questionNumber: Int = 0;
